@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=55&animation=fadeIn" alt="Header Banner" />
 </p>
 
-# Hi, I'm Hemanth 👋
-### Full Stack Developer | AI & ML Student | GATE CSE Aspirant
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=A9F35A&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hemanth+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+ML+Student" alt="Typing SVG" /></p>
+<p align="center"><strong>GATE CSE Aspirant</strong></p>
 
 ---
 
