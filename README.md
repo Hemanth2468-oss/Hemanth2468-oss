@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B5CF0,100:3B82F6&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Student%20%7C%20GATE%20CSE%20Aspirant&descAlignY=55&descSize=18" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B5CF0,100:3B82F6&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Student%20%7C%20GATE%20CSE%20Aspirant&descAlignY=58&descSize=16" alt="Header Banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Hemanth2468-oss">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7B5CF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hemanth+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+ML+Enthusiast;GATE+CSE+Aspirant" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7B5CF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hemanth;Full+Stack+Developer;AI+%26+ML+Enthusiast;GATE+CSE+Aspirant" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,25 +31,19 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
-<p>
-  <img align="right" width="280" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="wave gif" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2800&pause=900&color=6B7280&center=false&vCenter=true&multiline=true&width=650&height=70&lines=I+am+a+passionate+Computer+Science+Engineering+(AI+%26+ML)+undergraduate;dedicated+to+building+scalable+full-stack+applications+and;deploying+intelligent+deep+learning+systems." alt="About typing" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2800&pause=900&color=6B7280&center=false&vCenter=true&multiline=true&width=650&height=90&lines=I+am+a+passionate+Computer+Science+Engineering+(AI+%26+ML)+undergraduate;dedicated+to+building+scalable+full-stack+applications+and;deploying+intelligent+deep+learning+systems." alt="About typing" />
-
-* 🎓 **Education:** B.Tech in CSE (Artificial Intelligence & Machine Learning)
-* 💼 **Experience:** Web Development Intern @ Codec Technologies
-* 🛡️ **Certifications:** Google Analytics Certified · Tata GenAI Data Analytics Job Simulation
-* 🎯 **Current Focus:** Mastering Data Structures & Algorithms (DSA), preparing for GATE CSE
-* 🌱 **Open Source:** Actively contributing to impactful projects, open to internships
-
-<br clear="right"/>
+- **Education:** B.Tech in CSE (Artificial Intelligence & Machine Learning)
+- **Experience:** Web Development Intern at Codec Technologies
+- **Certifications:** Google Analytics Certified, Tata GenAI Data Analytics Job Simulation
+- **Current Focus:** Mastering Data Structures & Algorithms (DSA), preparing for GATE CSE
+- **Open Source:** Actively contributing to impactful projects, open to internships
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
@@ -77,13 +71,13 @@
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Bookstore Inventory Management
+### Bookstore Inventory Management
 **Stack:** Python · Django · MySQL · Supabase
 
 A full-stack inventory platform with detailed book tracking, admin analytics dashboards, and automated Excel import/export.
@@ -91,7 +85,7 @@ A full-stack inventory platform with detailed book tracking, admin analytics das
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Face Mask Detection System
+### Face Mask Detection System
 **Stack:** Python · TensorFlow · OpenCV
 
 Real-time computer vision system identifying masked/unmasked individuals using SSD architecture optimized for rapid frame analysis.
@@ -101,7 +95,7 @@ Real-time computer vision system identifying masked/unmasked individuals using S
 <tr>
 <td width="50%" valign="top">
 
-### 🦀 Log File Analyzer
+### Log File Analyzer
 **Stack:** Rust · Cargo
 
 High-performance, concurrent CLI utility built from scratch to parse, search, and monitor massive server log files with zero-cost abstractions.
@@ -109,7 +103,7 @@ High-performance, concurrent CLI utility built from scratch to parse, search, an
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AI Resume Screening System
+### AI Resume Screening System
 **Stack:** Python · NLP · Machine Learning
 
 Automated platform that reads, parses, and scores applicant resumes against job descriptions to streamline technical recruitment.
@@ -119,7 +113,7 @@ Automated platform that reads, parses, and scores applicant resumes against job 
 <tr>
 <td width="50%" valign="top">
 
-### 🍳 NLP Recipe Ingredient Generator
+### NLP Recipe Ingredient Generator
 **Stack:** Python · NLP · Deep Learning
 
 Generative AI application interpreting structured recipe prompts to create novel, context-aware culinary instructions.
@@ -127,7 +121,7 @@ Generative AI application interpreting structured recipe prompts to create novel
 </td>
 <td width="50%" valign="top">
 
-### 📄 ResumeAi
+### ResumeAi
 **Stack:** Node.js · Express · Gemini API · Tailwind CSS
 
 AI-powered resume analyzer returning ATS score, strengths, weaknesses, keyword gaps, and best-fit roles via structured Gemini prompts.
@@ -138,7 +132,7 @@ AI-powered resume analyzer returning ATS score, strengths, weaknesses, keyword g
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hemanth2468-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hemanth's GitHub Stats" height="165"/>
