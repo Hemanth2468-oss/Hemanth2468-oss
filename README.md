@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=55&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=200&section=header&text=WELCOME%20TO%20MY%20PORTFOLIO&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Professional Header Banner" />
 </p>
 
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=A9F35A&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hemanth+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+ML+Student" alt="Typing SVG" /></p>
@@ -7,14 +7,14 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-7199f40f-24da-4629-8c40-1edb15ac20d3.gif" width="32"> 🚀 About Me
 I am a passionate Computer Science Engineering (AI & ML) undergraduate student dedicated to building scalable full-stack applications and deploying intelligent deep learning systems. I bridge the gap between robust software engineering and data-driven artificial intelligence.
 
-* **🎓 Education:** B.Tech in CSE (Artificial Intelligence & Machine Learning)
-* **💼 Experience:** Completed Web Development Internship at Codec Technologies
-* **🛡️ Certifications:** Google Analytics Certified | Tata GenAI Data Analytics Job Simulation
-* **🎯 Current Focus:** Mastering Data Structures & Algorithms (DSA) and preparing for GATE CSE
-* **🌱 Open Source:** Enthusiastic about contributing to impactful open-source projects and open to internships
+* **🎓 Education:** B.Tech in CSE (Artificial Intelligence & Machine Learning)[cite: 1]
+* **💼 Experience:** Completed Web Development Internship at Codec Technologies[cite: 1]
+* **🛡️ Certifications:** Google Analytics Certified | Tata GenAI Data Analytics Job Simulation[cite: 1]
+* **🎯 Current Focus:** Mastering Data Structures & Algorithms (DSA) and preparing for GATE CSE[cite: 1]
+* **🌱 Open Source:** Enthusiastic about contributing to impactful open-source projects and open to internships[cite: 1]
 
 ---
 
@@ -55,25 +55,25 @@ I am a passionate Computer Science Engineering (AI & ML) undergraduate student d
 
 ## 📁 Featured Projects
 
-### 📚 Bookstore Inventory Management System
+### 📚 Bookstore Inventory Management System[cite: 1]
 * **Tech Stack:** Python, Django, MySQL, Supabase, Frontend Integration
-* **Description:** A comprehensive, full-stack inventory management platform featuring detailed book tracking, administrative analytics dashboards, and automated Excel data import/export functionalities.
+* **Description:** A comprehensive, full-stack inventory management platform featuring detailed book tracking, administrative analytics dashboards, and automated Excel data import/export functionalities.[cite: 1]
 
-### 🛡️ Face Mask Detection System
-* **Tech Stack:** Python, TensorFlow, OpenCV, Deep Learning (SSD)
-* **Description:** A real-time computer vision system capable of identifying individuals wearing or missing masks, utilizing Single Shot MultiBox Detector (SSD) architecture optimized for rapid frame analysis.
+### 🛡️ Face Mask Detection System[cite: 1]
+* **Tech Stack:** Python, TensorFlow, OpenCV, Deep Learning (SSD)[cite: 1]
+* **Description:** A real-time computer vision system capable of identifying individuals wearing or missing masks, utilizing Single Shot MultiBox Detector (SSD) architecture optimized for rapid frame analysis.[cite: 1]
 
-### 🦀 Log File Analyzer
-* **Tech Stack:** Rust, Cargo, VS Code CLI
-* **Description:** A high-performance, concurrent command-line utility built from scratch to efficiently parse, search, and monitor massive server log files with zero-cost abstractions.
+### 🦀 Log File Analyzer[cite: 1]
+* **Tech Stack:** Rust, Cargo, VS Code CLI[cite: 1]
+* **Description:** A high-performance, concurrent command-line utility built from scratch to efficiently parse, search, and monitor massive server log files with zero-cost abstractions.[cite: 1]
 
-### 🧠 AI Resume Screening System
-* **Tech Stack:** Python, NLP, Machine Learning
-* **Description:** An automated platform engineered to read, parse, and score applicant resumes against job descriptions to streamline technical recruitment.
+### 🧠 AI Resume Screening System[cite: 1]
+* **Tech Stack:** Python, NLP, Machine Learning[cite: 1]
+* **Description:** An automated platform engineered to read, parse, and score applicant resumes against job descriptions to streamline technical recruitment.[cite: 1]
 
-### 🍳 NLP Recipe Ingredient Generator
-* **Tech Stack:** Python, Natural Language Processing, Deep Learning
-* **Description:** A generative AI application that interprets structural recipe prompts and creates novel context-aware culinary instructions.
+### 🍳 NLP Recipe Ingredient Generator[cite: 1]
+* **Tech Stack:** Python, Natural Language Processing, Deep Learning[cite: 1]
+* **Description:** A generative AI application that interprets structural recipe prompts and creates novel context-aware culinary instructions.[cite: 1]
 
 ---
 
@@ -90,7 +90,7 @@ I am a passionate Computer Science Engineering (AI & ML) undergraduate student d
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me[cite: 1]
 
 <p align="left">
   <a href="https://linkedin.com/in/yourusername" target="_blank">
