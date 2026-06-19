@@ -13,7 +13,7 @@ I am a passionate Computer Science Engineering (AI & ML) undergraduate student d
 * **🎓 Education:** B.Tech in CSE (Artificial Intelligence & Machine Learning)
 * **💼 Experience:** Completed Web Development Internship at Codec Technologies
 * **🛡️ Certifications:** Google Analytics Certified | Tata GenAI Data Analytics Job Simulation
-* **🎯 Current Focus:** Masterng Data Structures & Algorithms (DSA) and preparing for GATE CSE
+* **🎯 Current Focus:** Mastering Data Structures & Algorithms (DSA) and preparing for GATE CSE
 * **🌱 Open Source:** Enthusiastic about contributing to impactful open-source projects and open to internships
 
 ---
@@ -84,18 +84,35 @@ I am a passionate Computer Science Engineering (AI & ML) undergraduate student d
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Hemanth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Hemanth's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-* 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-* 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.gg/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://geeksforgeeks.org/user/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+  </a>
+</p>
